@@ -1,0 +1,6 @@
+.footer{
+  background: var(--dark-grey-bg-color);
+  color: var(--white-bg-color);
+  display: flex;
+  justify-content: center;
+}

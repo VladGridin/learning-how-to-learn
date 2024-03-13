@@ -1,0 +1,5 @@
+.description {
+  min-height: var(--min-height);
+  max-height: var(--max-height);
+  background: var(--white-bg-color);
+}

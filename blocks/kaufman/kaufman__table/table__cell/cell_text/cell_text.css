@@ -1,0 +1,8 @@
+.cell_text {
+  width: 200px;
+  padding-top: 20px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  z-index: 5;
+}

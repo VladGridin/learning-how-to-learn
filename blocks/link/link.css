@@ -1,0 +1,9 @@
+.link {
+  text-decoration: none;
+  color: var(--blue-color);
+  transition: 300ms ease-in-out;
+}
+
+.link:hover {
+  opacity: 0.5;
+}
