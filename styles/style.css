@@ -202,5 +202,23 @@
   z-index: 0;
   position: absolute;
   right: -210px;
+}
+/* footer */
+.footer{
+  background: var(--dark-grey-bg-color);
+  color: var(--white-bg-color);
+  display: flex;
+  justify-content: center;
+}
 
+.footer__author {
+  width: 90%;
+  padding: 60px auto 40px auto;
+}
+
+.footer__author__text {
+  padding: 18px 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
 }
