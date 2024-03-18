@@ -55,6 +55,13 @@
 @import "../blocks/kaufman/kaufman__table/table__cell/cell_text/cell_text.css";
 @import "../blocks/kaufman/kaufman__backgroundImg/kaufman__backgroundImg.css";
 
+/* resources */
+@import "../blocks/resources/resources.css";
+@import "../blocks/resources/resources__title/resources__title.css";
+@import "../blocks/resources/resources__subtitle/resources__subtitle.css";
+@import "../blocks/resources/resources__logo-zone/logo-zone__image/logo-zone__image.css";
+@import "../blocks/resources/resources__logo-zone/resources__logo-zone.css";
+
 /* footer */
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/footer__author/footer__author.css";
