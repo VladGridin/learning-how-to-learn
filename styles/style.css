@@ -16,6 +16,17 @@
 
 /* description */
 @import "../blocks/description/description.css";
+
+/* techniques */
+@import "../blocks/techniques/techniques.css";
+@import "../blocks/techniques/techniques__title/techniques__title.css";
+@import "../blocks/techniques/techniques__subtitle/techniques__subtitle.css";
+@import "../blocks/techniques/techniques__card/techniques__card.css";
+@import "../blocks/techniques/techniques__card/card__item/card__item.css";
+@import "../blocks/techniques/techniques__card/card__item/item__image/item__image.css";
+@import "../blocks/techniques/techniques__card/card__item/item__title/item__title.css";
+@import "../blocks/techniques/techniques__card/card__item/item__description/item__description.css";
+
 /* two-columns */
 @import "../blocks/description/two-columns/two-columns.css";
 @import "../blocks/description/two-columns/two-columns__header/two-columns__header.css";
@@ -33,7 +44,6 @@
 @import "../blocks/kaufman/kaufman__table/table__cell/cell__heading/cell__heading.css";
 @import "../blocks/kaufman/kaufman__table/table__cell/cell_text/cell_text.css";
 @import "../blocks/kaufman/kaufman__backgroundImg/kaufman__backgroundImg.css";
-
 
 /* footer */
 @import "../blocks/footer/footer.css";
