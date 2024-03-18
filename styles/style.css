@@ -27,6 +27,10 @@
 @import "../blocks/techniques/techniques__card/card__item/item__title/item__title.css";
 @import "../blocks/techniques/techniques__card/card__item/item__description/item__description.css";
 
+/* oakley */
+@import "../blocks/oakley/oakley.css";
+@import "../blocks/oakley/oakley__columns/oakley__columns.css";
+
 /* two-columns */
 @import "../blocks/description/two-columns/two-columns.css";
 @import "../blocks/description/two-columns/two-columns__header/two-columns__header.css";
