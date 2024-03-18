@@ -12,6 +12,7 @@
 /* logo */
 @import "../blocks/logo/logo.css";
 @import "../blocks/logo/logo_place_header/logo_place_header.css";
+@import "../blocks/logo/logo_place_footer/logo_place_footer.css";
 
 /* description */
 @import "../blocks/description/description.css";
