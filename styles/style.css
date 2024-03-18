@@ -30,6 +30,12 @@
 /* oakley */
 @import "../blocks/oakley/oakley.css";
 @import "../blocks/oakley/oakley__columns/oakley__columns.css";
+/* feynman */
+@import "../blocks/feynman/feynman.css";
+@import "../blocks/feynman/feynman__title/feynman__title.css";
+@import "../blocks/feynman/feynman__subtitle/feynman__subtitle.css";
+@import "../blocks/feynman/feynman__link/feynman__link.css";
+@import "../blocks/feynman/feynman__image/feynman__image.css";
 
 /* two-columns */
 @import "../blocks/description/two-columns/two-columns.css";
