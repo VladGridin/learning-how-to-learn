@@ -5,6 +5,7 @@
 @import "../blocks/header/header__title/header__title.css";
 @import "../blocks/header/header__subtitle_block/header__subtitle_block.css";
 @import "../blocks/header/header__subtitle_block/header__subtitle_text/header__subtitle_text.css";
+@import "../blocks/header/header__subtitle_block/header__subtitle_link/header__subtitle_link.css";
 @import "../blocks/link/link.css";
 @import "../blocks/header/header__image/header__image.css";
 @import "../blocks/header/header_square/header_square.css";
@@ -67,4 +68,4 @@
 @import "../blocks/footer/footer__author/footer__author.css";
 @import "../blocks/footer/footer__author/author__text/author__text.css";
 
-
+@import "../blocks/animation/animation.css";
