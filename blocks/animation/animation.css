@@ -1,8 +1,4 @@
 .animation {
-  /* animation-name: rotate;
-  animation-duration: 2s;
-  animation-timing-function: linear;
-  animation-iteration-count: infinite; */
   animation: rotate 18s linear infinite;
   animation-delay: 0s;
 }

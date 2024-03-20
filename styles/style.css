@@ -2,70 +2,71 @@
 @import '../blocks/page/page.css';
 /* header */
 @import "../blocks/header/header.css";
-@import "../blocks/header/header__title/header__title.css";
-@import "../blocks/header/header__subtitle_block/header__subtitle_block.css";
-@import "../blocks/header/header__subtitle_block/header__subtitle_text/header__subtitle_text.css";
-@import "../blocks/header/header__subtitle_block/header__subtitle_link/header__subtitle_link.css";
+@import "../blocks/header/__title/header__title.css";
+@import "../blocks/header/__subtitle_block/header__subtitle_block.css";
+@import "../blocks/header/__subtitle_block/__subtitle_text/header__subtitle_text.css";
+@import "../blocks/header/__subtitle_block/__subtitle_link/header__subtitle_link.css";
 @import "../blocks/link/link.css";
-@import "../blocks/header/header__image/header__image.css";
-@import "../blocks/header/header_square/header_square.css";
+@import "../blocks/header/__image/header__image.css";
+@import "../blocks/header/_square/header_square.css";
 
 /* logo */
 @import "../blocks/logo/logo.css";
-@import "../blocks/logo/logo_place_header/logo_place_header.css";
-@import "../blocks/logo/logo_place_footer/logo_place_footer.css";
+@import "../blocks/logo/_place_header/logo_place_header.css";
+@import "../blocks/logo/_place_footer/logo_place_footer.css";
 
 /* description */
 @import "../blocks/description/description.css";
 
 /* techniques */
 @import "../blocks/techniques/techniques.css";
-@import "../blocks/techniques/techniques__title/techniques__title.css";
-@import "../blocks/techniques/techniques__subtitle/techniques__subtitle.css";
-@import "../blocks/techniques/techniques__card/techniques__card.css";
-@import "../blocks/techniques/techniques__card/card__item/card__item.css";
-@import "../blocks/techniques/techniques__card/card__item/item__image/item__image.css";
-@import "../blocks/techniques/techniques__card/card__item/item__title/item__title.css";
-@import "../blocks/techniques/techniques__card/card__item/item__description/item__description.css";
+@import "../blocks/techniques/__title/techniques__title.css";
+@import "../blocks/techniques/__subtitle/techniques__subtitle.css";
+@import "../blocks/techniques/__card/techniques__card.css";
+@import "../blocks/techniques/__card/__item/card__item.css";
+@import "../blocks/techniques/__card/__item/__image/item__image.css";
+@import "../blocks/techniques/__card/__item/__title/item__title.css";
+@import "../blocks/techniques/__card/__item/__description/item__description.css";
 
 /* oakley */
 @import "../blocks/oakley/oakley.css";
-@import "../blocks/oakley/oakley__columns/oakley__columns.css";
+@import "../blocks/oakley/__columns/oakley__columns.css";
+
 /* feynman */
 @import "../blocks/feynman/feynman.css";
-@import "../blocks/feynman/feynman__title/feynman__title.css";
-@import "../blocks/feynman/feynman__subtitle/feynman__subtitle.css";
-@import "../blocks/feynman/feynman__link/feynman__link.css";
-@import "../blocks/feynman/feynman__image/feynman__image.css";
+@import "../blocks/feynman/__title/feynman__title.css";
+@import "../blocks/feynman/__subtitle/feynman__subtitle.css";
+@import "../blocks/feynman/__link/feynman__link.css";
+@import "../blocks/feynman/__image/feynman__image.css";
 
 /* two-columns */
 @import "../blocks/description/two-columns/two-columns.css";
-@import "../blocks/description/two-columns/two-columns__header/two-columns__header.css";
-@import "../blocks/description/two-columns/two-columns__main-text/two-columns__main-text.css";
-@import "../blocks/description/two-columns/two-columns__paragraf/two-columns__paragraf.css";
-@import "../blocks/description/two-columns/two-columns_span/two-columns_span.css";
+@import "../blocks/description/two-columns/__header/two-columns__header.css";
+@import "../blocks/description/two-columns/__main-text/two-columns__main-text.css";
+@import "../blocks/description/two-columns/__paragraf/two-columns__paragraf.css";
+@import "../blocks/description/two-columns/_span/two-columns_span.css";
 
 /* Kaufman */
 @import "../blocks/kaufman/kaufman.css";
-@import "../blocks/kaufman/kaufman__title/kaufman__title.css";
-@import "../blocks/kaufman/kaufman__subtitle/kaufman__subtitle.css";
-@import "../blocks/kaufman/kaufman__table/kaufman__table.css";
-@import "../blocks/kaufman/kaufman__table/table__row/table__row.css";
-@import "../blocks/kaufman/kaufman__table/table__cell/table__cell.css";
-@import "../blocks/kaufman/kaufman__table/table__cell/cell__heading/cell__heading.css";
-@import "../blocks/kaufman/kaufman__table/table__cell/cell_text/cell_text.css";
-@import "../blocks/kaufman/kaufman__backgroundImg/kaufman__backgroundImg.css";
+@import "../blocks/kaufman/__title/kaufman__title.css";
+@import "../blocks/kaufman/__subtitle/kaufman__subtitle.css";
+@import "../blocks/kaufman/__table/kaufman__table.css";
+@import "../blocks/kaufman/__table/__row/table__row.css";
+@import "../blocks/kaufman/__table/__cell/table__cell.css";
+@import "../blocks/kaufman/__table/__cell/cell__heading/cell__heading.css";
+@import "../blocks/kaufman/__table/__cell/cell_text/cell_text.css";
+@import "../blocks/kaufman/__backgroundImg/kaufman__backgroundImg.css";
 
 /* resources */
 @import "../blocks/resources/resources.css";
-@import "../blocks/resources/resources__title/resources__title.css";
-@import "../blocks/resources/resources__subtitle/resources__subtitle.css";
-@import "../blocks/resources/resources__logo-zone/logo-zone__image/logo-zone__image.css";
-@import "../blocks/resources/resources__logo-zone/resources__logo-zone.css";
+@import "../blocks/resources/__title/resources__title.css";
+@import "../blocks/resources/__subtitle/resources__subtitle.css";
+@import "../blocks/resources/__logo-zone/__image/logo-zone__image.css";
+@import "../blocks/resources/__logo-zone/resources__logo-zone.css";
 
 /* footer */
 @import "../blocks/footer/footer.css";
-@import "../blocks/footer/footer__author/footer__author.css";
-@import "../blocks/footer/footer__author/author__text/author__text.css";
+@import "../blocks/footer/__author/footer__author.css";
+@import "../blocks/footer/__author/__text/author__text.css";
 
 @import "../blocks/animation/animation.css";

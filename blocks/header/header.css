@@ -5,4 +5,5 @@
   min-height: var(--min-height);
   max-height: var(--max-height);
   background-color: var(--light-grey-bg-color);
+  overflow: hidden;
 }
