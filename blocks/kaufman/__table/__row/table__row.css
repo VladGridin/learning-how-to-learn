@@ -1,7 +1,0 @@
-.table__row {
-  display: flex;
-  flex-direction: row;
-  padding-top: 80px;
-  justify-content: space-between;
-  z-index: 3;
-}

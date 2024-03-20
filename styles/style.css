@@ -51,7 +51,7 @@
 @import "../blocks/kaufman/__title/kaufman__title.css";
 @import "../blocks/kaufman/__subtitle/kaufman__subtitle.css";
 @import "../blocks/kaufman/__table/kaufman__table.css";
-@import "../blocks/kaufman/__table/__row/table__row.css";
+
 @import "../blocks/kaufman/__table/__cell/table__cell.css";
 @import "../blocks/kaufman/__table/__cell/cell__heading/cell__heading.css";
 @import "../blocks/kaufman/__table/__cell/cell_text/cell_text.css";
