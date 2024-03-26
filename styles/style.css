@@ -64,7 +64,7 @@
 @import "../blocks/resources/resources.css";
 @import "../blocks/resources/__title/resources__title.css";
 @import "../blocks/resources/__subtitle/resources__subtitle.css";
-@import "../blocks/resources/__logo-zone/__image/logo-zone__image.css";
+@import "../blocks/resources/__logo-zone/__image/resources__image.css";
 @import "../blocks/resources/__logo-zone/resources__logo-zone.css";
 
 /* footer */
