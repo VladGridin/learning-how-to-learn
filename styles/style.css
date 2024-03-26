@@ -70,6 +70,6 @@
 /* footer */
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__author/footer__author.css";
-@import "../blocks/footer/__author/__text/author__text.css";
+@import "../blocks/footer/__author/__text/footer__text.css";
 
 @import "../blocks/animation/animation.css";
