@@ -3,20 +3,27 @@
 /* header */
 @import "../blocks/header/header.css";
 @import "../blocks/header/__title/header__title.css";
-@import "../blocks/header/__subtitle_block/header__subtitle_block.css";
-@import "../blocks/header/__subtitle_block/__subtitle_text/header__subtitle_text.css";
-@import "../blocks/header/__subtitle_block/__subtitle_link/header__subtitle_link.css";
+
+@import "../blocks/header/__subtitle/header__subtitle.css";
+@import "../blocks/header/__subtitle/__link/subtitle__link.css";
 @import "../blocks/link/link.css";
-@import "../blocks/header/__image/header__image.css";
-@import "../blocks/header/_square/header_square.css";
+@import "../blocks/header/__main-illustration/header__main-illustration.css";
+@import "../blocks/header/__square-pic/header__square-pic.css";
 
 /* logo */
 @import "../blocks/logo/logo.css";
-@import "../blocks/logo/_place_header/logo_place_header.css";
-@import "../blocks/logo/_place_footer/logo_place_footer.css";
+@import "../blocks/logo/__place/_footer/logo_place_footer.css";
+@import "../blocks/logo/__place/_header/logo_place_header.css";
+
+
 
 /* description */
 @import "../blocks/description/description.css";
+@import "../blocks/description/two-columns/two-columns.css";
+@import "../blocks/description/two-columns/__brief/two-columns__brief.css";
+@import "../blocks/description/two-columns/__main-text/two-columns__main-text.css";
+@import "../blocks/description/two-columns/__main-text/__paragraph/two-columns__paragraph.css";
+@import "../blocks/description/two-columns/__main-text/__paragraph/__span-accent/paragraph__span-accent.css";
 
 /* techniques */
 @import "../blocks/techniques/techniques.css";
@@ -39,12 +46,7 @@
 @import "../blocks/feynman/__link/feynman__link.css";
 @import "../blocks/feynman/__image/feynman__image.css";
 
-/* two-columns */
-@import "../blocks/description/two-columns/two-columns.css";
-@import "../blocks/description/two-columns/__header/two-columns__header.css";
-@import "../blocks/description/two-columns/__main-text/two-columns__main-text.css";
-@import "../blocks/description/two-columns/__paragraf/two-columns__paragraf.css";
-@import "../blocks/description/two-columns/_span/two-columns_span.css";
+
 
 /* Kaufman */
 @import "../blocks/kaufman/kaufman.css";
