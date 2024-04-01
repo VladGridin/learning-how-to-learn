@@ -1,7 +1,6 @@
 .header {
   display: flex;
   position: relative;
-  height: 100vh;
   min-height: var(--min-height);
   max-height: var(--max-height);
   background-color: var(--light-grey-bg-color);

@@ -19,21 +19,21 @@
 
 /* description */
 @import "../blocks/description/description.css";
-@import "../blocks/description/two-columns/two-columns.css";
-@import "../blocks/description/two-columns/__brief/two-columns__brief.css";
-@import "../blocks/description/two-columns/__main-text/two-columns__main-text.css";
-@import "../blocks/description/two-columns/__main-text/__paragraph/two-columns__paragraph.css";
-@import "../blocks/description/two-columns/__main-text/__paragraph/__span-accent/two-columns__span-accent.css";
+@import "../blocks/two-columns/two-columns.css";
+@import "../blocks/two-columns/__brief/two-columns__brief.css";
+@import "../blocks/two-columns/__main-text/two-columns__main-text.css";
+@import "../blocks/two-columns/__main-text/__paragraph/two-columns__paragraph.css";
+@import "../blocks/two-columns/__main-text/__paragraph/__span-accent/two-columns__span-accent.css";
 
 /* techniques */
 @import "../blocks/techniques/techniques.css";
 @import "../blocks/techniques/__title/techniques__title.css";
 @import "../blocks/techniques/__subtitle/techniques__subtitle.css";
-@import "../blocks/techniques/__card/card.css";
-@import "../blocks/techniques/__card/__item/card__item.css";
-@import "../blocks/techniques/__card/__item/__title/card__title.css";
-@import "../blocks/techniques/__card/__item/__description/card__description.css";
-@import "../blocks/techniques/__card/__item/__image/card__image.css";
+@import "../blocks/card/card.css";
+@import "../blocks/card/__item/card__item.css";
+@import "../blocks/card/__item/__title/card__title.css";
+@import "../blocks/card/__item/__description/card__description.css";
+@import "../blocks/card/__item/__image/card__image.css";
 
 
 
@@ -54,10 +54,10 @@
 @import "../blocks/kaufman/kaufman.css";
 @import "../blocks/kaufman/__title/kaufman__title.css";
 @import "../blocks/kaufman/__subtitle/kaufman__subtitle.css";
-@import "../blocks/kaufman/__table/table.css";
-@import "../blocks/kaufman/__table/__cell/table__cell.css";
-@import "../blocks/kaufman/__table/__cell/__heading/table__heading.css";
-@import "../blocks/kaufman/__table/__cell/_text/table__text.css";
+@import "../blocks/table/table.css";
+@import "../blocks/table/__cell/table__cell.css";
+@import "../blocks/table/__cell/__heading/table__heading.css";
+@import "../blocks/table/__cell/_text/table__text.css";
 @import "../blocks/kaufman/__backgroundImg/kaufman__backgroundImg.css";
 
 /* resources */
