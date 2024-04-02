@@ -56,8 +56,8 @@
 @import "../blocks/kaufman/__subtitle/kaufman__subtitle.css";
 @import "../blocks/table/table.css";
 @import "../blocks/table/__cell/table__cell.css";
-@import "../blocks/table/__cell/__heading/table__heading.css";
-@import "../blocks/table/__cell/_text/table__text.css";
+@import "../blocks/table/__heading/table__heading.css";
+@import "../blocks/table/__text/table__text.css";
 @import "../blocks/kaufman/__backgroundImg/kaufman__backgroundImg.css";
 
 /* resources */
