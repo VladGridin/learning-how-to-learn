@@ -2,6 +2,7 @@
   display: flex;
   position: relative;
   min-height: var(--min-height);
+  height: 100vh;
   max-height: var(--max-height);
   background-color: var(--light-grey-bg-color);
   overflow: hidden;
